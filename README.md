@@ -42,7 +42,7 @@ Sysmon64.exe -c sysmonconfig-export.xml
 
 ```powershell
 # 0) 저장소 클론
-git clone https://github.com/example/EventAgent.git
+git clone https://github.com/shhhlee/EventAgent.git
 
 # 1) SysmonETWexporter
 ./SysmonETWexporter.exe
@@ -63,7 +63,7 @@ docker‑compose up -d
 
 ```powershell
 # 0) 저장소 클론
-git clone https://github.com/example/EventAgent.git
+git clone https://github.com/shhhlee/EventAgent.git
 
 # 1) SysmonETWexporter
 프로젝트 파일 압축 해제 후 빌드

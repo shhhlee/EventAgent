@@ -105,7 +105,7 @@ docker‑compose up -d
 
 ```powershell
 #cmd-ps-cmd-ps-notepad,calc
-powershell.exe -ExecutionPolicy Bypass -File .\LongTrace.ps1
+powershell.exe -ExecutionPolicy Bypass -File .\Test\LongTrace.ps1
 ```
 
 * **SysmonETWexporter** → 실시간 이벤트 출력
